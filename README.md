@@ -11,7 +11,7 @@ I'm **Mattia Russo**, a Mathematics graduate specializing in Data Analytics with
 - 📍 Based in **Italy**
 - 🎓 **Master in Data Analytics** (Profession.AI) - Gen. 2025 - Gen. 2026
 - 🎓 **Laurea Triennale in Matematica** - Università di Napoli Federico II (2018-2024)
-- 💼 Passionate about **Data Science, Machine Learning, and Big Data**
+- 💼 Passionate about **Data analyst, Machine Learning, and Big Data**
 - 📊 Strong background in **quantitative analysis, statistics, and analytical thinking**
 - 💡 I aspire to become a **full-fledged Data Analyst** because I believe in the power of data to drive smart decisions and uncover meaningful patterns
 - 🌐 **Languages**: Italian (C2), English (B1)
