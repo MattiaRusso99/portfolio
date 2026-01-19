@@ -1,7 +1,3 @@
-<div align="center">
-  <img src=".github/profile-photo.jpg" alt="Mattia Russo" width="300" style="border-radius: 50%;">
-</div>
-
 # Hi there 👋
 
 I'm **Mattia Russo**, a Mathematics graduate specializing in Data Analytics with strong quantitative training. Passionate about transforming complex information into concrete insights to support business decision-making. I take a methodical and data-driven approach to problem-solving with a focus on precision and business impact.
